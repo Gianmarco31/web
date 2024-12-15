@@ -1,0 +1,17 @@
+.Titulo {
+	font-style: normal;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #932F36;
+	font-size: 50px;
+}
+.imagenes {
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-color: #932F36;
+	border-right-color: #932F36;
+	border-bottom-color: #932F36;
+	border-left-color: #932F36;
+}
